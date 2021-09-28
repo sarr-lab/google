@@ -1,0 +1,23 @@
+.goo{border: 1px solid blue;
+margin-left: 35%;
+margin-top: 10%;}
+.go{border: 1px solid red;
+font-size: 5em;}
+.bar{border: 1px solid green;
+margin-top: 50px;
+margin-left: 25%;}
+input[type=text] {width: 50%;
+ box-sizing: border-box;
+		border: 2px solid #ccc;
+		border-radius: 25px;
+		box-shadow: 2px 2px 2px 2px red;
+		font-size: 16px;
+		background-color: white;
+		background-image: url('searchicon.png') left,url('searchion.png') right;
+		background-position: 10px 10px; 
+		background-repeat: no-repeat;
+		padding: 12px 20px 12px 40px;}
+		input[type=text]:focus {width: 50%;
+			transition: height 10s;
+			height: 20%;
+			background}
